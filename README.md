@@ -1,1 +1,1 @@
-# skillfactory_youtalk
+# Проект YouTalk для Skillfactory
